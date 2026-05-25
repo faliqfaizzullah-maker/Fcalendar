@@ -1,0 +1,6 @@
+{
+  "name": "Glass Calendar",
+  "description": "An elegant frosted-glass themed Calendar application with multi-account synchronization and customizable event notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
